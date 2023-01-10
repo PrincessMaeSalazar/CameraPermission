@@ -28,7 +28,7 @@ class _HomePageState extends State<HomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Flutter Permission"),
+        title: const Text("Photo Image"),
       ),
       body: Column(
         mainAxisAlignment: MainAxisAlignment.spaceEvenly,
